@@ -18,10 +18,12 @@ namespace ConsoleAppFileBackup
             string backupFile = string.Empty;
             string outputFile = string.Empty;
 
+            //yedek alınacak dosya yolu belirtilir..Örneğin c:\test
             backupFile = @"Backup File Path";
+            //yedeğin nereye alınacağı belirtilir. Örneğin c:\testOutput
             outputFile = @"OutPut File Path";
 
-
+            //zipleme yapılır.
             program.zipFile(backupFile, outputFile);
         }
 
@@ -54,6 +56,7 @@ namespace ConsoleAppFileBackup
                     }
                 }
 
+                //Zipleme işlemi başlatılır.
                 ZipFile zip = new ZipFile();
                 zip.AddItem(_filePath);
                 globalCount += 1;
