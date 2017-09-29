@@ -5,3 +5,11 @@ C:\Users\Semih\Documents\TortoiseGit\ConsoleAppFileBackup\ConsoleAppFileBackup\b
 C:\Users\Semih\Documents\TortoiseGit\ConsoleAppFileBackup\ConsoleAppFileBackup\obj\Debug\ConsoleAppFileBackup.csprojResolveAssemblyReference.cache
 C:\Users\Semih\Documents\TortoiseGit\ConsoleAppFileBackup\ConsoleAppFileBackup\obj\Debug\ConsoleAppFileBackup.exe
 C:\Users\Semih\Documents\TortoiseGit\ConsoleAppFileBackup\ConsoleAppFileBackup\obj\Debug\ConsoleAppFileBackup.pdb
+C:\Users\Semih\Documents\GitHub\ConsoleAppFileBackup\ConsoleAppFileBackup\bin\Debug\ConsoleAppFileBackup.exe.config
+C:\Users\Semih\Documents\GitHub\ConsoleAppFileBackup\ConsoleAppFileBackup\bin\Debug\ConsoleAppFileBackup.exe
+C:\Users\Semih\Documents\GitHub\ConsoleAppFileBackup\ConsoleAppFileBackup\bin\Debug\ConsoleAppFileBackup.pdb
+C:\Users\Semih\Documents\GitHub\ConsoleAppFileBackup\ConsoleAppFileBackup\bin\Debug\Ionic.Zip.dll
+C:\Users\Semih\Documents\GitHub\ConsoleAppFileBackup\ConsoleAppFileBackup\obj\Debug\ConsoleAppFileBackup.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Documents\GitHub\ConsoleAppFileBackup\ConsoleAppFileBackup\obj\Debug\ConsoleAppFileBackup.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Documents\GitHub\ConsoleAppFileBackup\ConsoleAppFileBackup\obj\Debug\ConsoleAppFileBackup.exe
+C:\Users\Semih\Documents\GitHub\ConsoleAppFileBackup\ConsoleAppFileBackup\obj\Debug\ConsoleAppFileBackup.pdb
